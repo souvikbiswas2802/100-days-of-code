@@ -4,5 +4,5 @@
 
 **Thoughts:** I've recently started 100 Days of Python Challange, I have learned how to print multiple lines using one print function.
 
-**Link(s) to work: **
+**Link(s) to work:**
 1. [Printing My Public Commitment](https://replit.com/@souvik2802/day-1100-days#main.py)
