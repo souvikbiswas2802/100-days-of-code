@@ -1,3 +1,7 @@
+###100 Days Of Code - Log
+**My One stop resource for next 100 days:** https://replit.com/learn/100-days-of-python
+
+
 ### Day 1: February 25, 2024, Sunday
 
 **Today's Progress:** 
