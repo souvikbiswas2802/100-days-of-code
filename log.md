@@ -43,3 +43,15 @@
 **Link(s) to work:**
 1. [Recipe Generator](https://replit.com/@souvik2802/day-3100-days#main.py)
 
+
+### Day 4: February 28, 2024, Wednesday
+
+**Today's Progress:** 
+1. Solved a Concatenate Exercise
+2. Learned How to Print in Colors
+3. Implemented it in previous exercise.
+
+**Thoughts:** Crushed a Concatenate challenge, dived into the vibrant world of colorful printing, and brought life to previous exercises! Feeling the code vibes!
+
+**Link(s) to work:**
+1. [Story Generator](https://replit.com/@souvik2802/day4100-days#main.py)
