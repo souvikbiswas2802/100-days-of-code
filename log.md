@@ -34,9 +34,9 @@
 ### Day 3: February 27, 2024, Tuesday
 
 **Today's Progress:** 
-1. Learned Basic Concept of Concatenate
+1. Learned Basic Concept of Concatenate.
 2. Fixed Wrong program to make it Run.
-3. Solved a Given Excercise
+3. Solved a Given Excercise.
 
 **Thoughts:** Today's journey was a mix of learning and problem-solving. Understanding the power of concatenation opens up possibilities for more complex projects. Fixing errors is a constant part of coding, and each bug fixed is a step toward mastery. Solved an exercise - a reminder that consistent effort yields tangible results. Excited about the progress made and eager for what's next! Ready to tackle more challenges on Day 4!
 
@@ -47,11 +47,25 @@
 ### Day 4: February 28, 2024, Wednesday
 
 **Today's Progress:** 
-1. Solved a Concatenate Exercise
-2. Learned How to Print in Colors
+1. Solved a Concatenate Exercise.
+2. Learned How to Print in Colors.
 3. Implemented it in previous exercise.
 
 **Thoughts:** Crushed a Concatenate challenge, dived into the vibrant world of colorful printing, and brought life to previous exercises! Feeling the code vibes!
 
 **Link(s) to work:**
 1. [Story Generator](https://replit.com/@souvik2802/day4100-days#main.py)
+
+
+### Day 5: February 29, 2024, Thursday
+
+**Today's Progress:** 
+1. Learned about if-else.
+2. Difference between "=" and "==".
+3. Importance of Indention in if-else.
+4. Solved a Given Excercise.
+
+**Thoughts:** Explored if-else structures, clarified "=" vs "==", and embraced the power of indentation. Coding intricacies are fascinating!
+
+**Link(s) to work:**
+1. [Marvel Charecter Creator](https://replit.com/@souvik2802/day5100-days#main.py)
