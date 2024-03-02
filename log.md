@@ -82,3 +82,18 @@
 
 **Link(s) to work:**
 1. [MY LOGIN SYSTEM](https://replit.com/@souvik2802/day6100-days#main.py)
+
+
+### Day 7: March 2, 2024, Saturday
+
+**Today's Progress:** 
+1. Explored Nested if, elif, and else structures.
+2. Identified common errors during nesting.
+3. Fixed a wrong program and made it run successfully.
+4. Conquered a challenging exercise.
+
+**Thoughts:** Nested structures bring a new level of complexity. Unraveling common errors is a skill in itself. Debugging, though challenging, is a crucial aspect of coding. Another exercise conquered - each hurdle overcome is a step forward. Excitement building for the coding journey ahead!
+
+**Link(s) to work:**
+1. [Fake Anime Fan Finder](https://replit.com/@souvik2802/day-7100-days#main.py)
+
