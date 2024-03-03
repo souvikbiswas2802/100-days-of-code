@@ -92,8 +92,20 @@
 3. Fixed a wrong program and made it run successfully.
 4. Conquered a challenging exercise.
 
-**Thoughts:** Nested structures bring a new level of complexity. Unraveling common errors is a skill in itself. Debugging, though challenging, is a crucial aspect of coding. Another exercise conquered - each hurdle overcome is a step forward. Excitement building for the coding journey ahead!
+**Thoughts:** Nested structures bring a new level of complexity. Unraveling common errors is a crucial skill in itself. Another exercise conquered - each hurdle overcome is a step forward. Excitement building for the coding journey ahead!
 
 **Link(s) to work:**
 1. [Fake Anime Fan Finder](https://replit.com/@souvik2802/day-7100-days#main.py)
+
+
+### Day 8: March 3, 2024, Sunday
+
+**Today's Progress:** 
+1. Revised previous lessons.
+2. Implemented those lessons to build a mini project.
+
+**Thoughts:** Revisiting lessons is essential for solidifying knowledge. Applying them to a mini project is rewarding—learning by doing is the key to mastery. Excited about the progress and the creation of the Daily Affirmation Generator!
+
+**Link(s) to work:**
+1. [Daily Affirmation Generator](https://replit.com/@souvik2802/day-8-100-days#main.py)
 
