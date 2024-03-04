@@ -109,3 +109,16 @@
 **Link(s) to work:**
 1. [Daily Affirmation Generator](https://replit.com/@souvik2802/day-8-100-days#main.py)
 
+
+### Day 9: March 4, 2024, Monday
+
+**Today's Progress:** 
+1. Explored equality and inequality symbols.
+2. Dived into the significance of type casting.
+3. Fixed a wrong program and made it run successfully.
+4. Conquered a challenging exercise.
+
+**Thoughts:** Understanding symbols and type casting is fundamental. Debugging reinforces resilience. Conquering exercises - a testament to continuous growth. Excited about today's progress!
+
+**Link(s) to work:**
+1. [Generation Generator](https://replit.com/@souvik2802/day-9-100-days#main.py)
