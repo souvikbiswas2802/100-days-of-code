@@ -1,0 +1,10 @@
+print("Bill calculator")
+print("---------------")
+print()
+myBill = float(input("What was the bill?: "))
+tipPercent = float(input("What % of tip will you leave?: "))
+numberOfPeople = int(input("How many people?: "))
+tipAmount = myBill * (tipPercent / 100)
+answer = (myBill + tipAmount) / numberOfPeople
+answer = round(answer, 2)
+print("You all owe", answer)
