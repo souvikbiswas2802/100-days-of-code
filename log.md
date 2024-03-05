@@ -122,3 +122,16 @@
 
 **Link(s) to work:**
 1. [Generation Generator](https://replit.com/@souvik2802/day-9-100-days#main.py)
+
+
+### Day 10: March 5, 2024, Tuesday
+
+**Today's Progress:** 
+1. Mastered basic arithmetic operators in Python.
+2. Successfully debugged and fixed a wrong program.
+3. Conquered a challenging exercise.
+
+**Thoughts:** Arithmetic operators add mathematical prowess to my coding arsenal. Debugging, a constant companion in coding, sharpens problem-solving skills. Completing exercises signifies continuous growth. Today's journey fuels excitement for what lies ahead!
+
+**Link(s) to work:**
+1. [Bill Calculator](https://replit.com/@souvik2802/day-10100-days#main.py)
