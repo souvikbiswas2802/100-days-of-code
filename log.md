@@ -135,3 +135,15 @@
 
 **Link(s) to work:**
 1. [Bill Calculator](https://replit.com/@souvik2802/day-10100-days#main.py)
+
+
+### Day 11: March 6, 2024, Wednesday
+
+**Today's Progress:** 
+
+1. Conquered a challenging exercise, pushing coding boundaries and honing problem-solving skills.
+
+**Thoughts:** The joy of overcoming challenges fuels the passion for coding. Every conquered exercise is a testament to growth and persistence. Excitement brewing for what's next in this coding journey! 
+
+**Link(s) to work:**
+1. [Years to Second Converter](https://replit.com/@souvik2802/day-11100-days#main.py)
