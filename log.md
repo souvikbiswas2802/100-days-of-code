@@ -147,3 +147,15 @@
 
 **Link(s) to work:**
 1. [Years to Second Converter](https://replit.com/@souvik2802/day-11100-days#main.py)
+
+
+### Day 12: March 7, 2024, Thursday
+
+**Today's Progress:** 
+
+1. Successfully debugged a code, turning challenges into victories. 
+
+**Thoughts:** Debugging is a crucial skill in the coding journey. Each fix is a step forward. Today's success reinforces resilience and determination. Ready to tackle more complexities! 
+
+**Link(s) to work:**
+1. [Debugged Code](https://replit.com/@souvik2802/day-12100-days#main.py)
