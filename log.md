@@ -159,3 +159,15 @@
 
 **Link(s) to work:**
 1. [Debugged Code](https://replit.com/@souvik2802/day-12100-days#main.py)
+
+
+### Day 13: March 8, 2024, Friday
+
+**Today's Progress:** 
+
+1. Conquered an exercise, crafting an Exam Grade Calculator and strengthening coding prowess
+
+**Thoughts:** Building practical applications like the Grade Calculator adds real-world value to coding skills. Each exercise brings new insights and growth. Excited about the journey of continuous improvement!
+
+**Link(s) to work:**
+1. [Exam Grade Calculator](https://replit.com/@souvik2802/day-13100-days#main.py)
