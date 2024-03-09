@@ -171,3 +171,15 @@
 
 **Link(s) to work:**
 1. [Exam Grade Calculator](https://replit.com/@souvik2802/day-13100-days#main.py)
+
+
+### Day 14: March 9, 2024, Saturday
+
+**Today's Progress:** 
+
+1. Conquered an exercise, building a 2 Player Rock, Paper, and Scissor game, enhancing coding skills with interactive applications.
+
+**Thoughts:** Creating interactive games adds a fun dimension to coding. The process of crafting applications like the game is both educational and enjoyable. Excitement fuels the continuous coding journey!
+
+**Link(s) to work:**
+1. [2 Player Rock, Paper and Scissor Game](https://replit.com/@souvik2802/day-14100-days#main.py)
