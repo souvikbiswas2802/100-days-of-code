@@ -183,3 +183,17 @@
 
 **Link(s) to work:**
 1. [2 Player Rock, Paper and Scissor Game](https://replit.com/@souvik2802/day-14100-days#main.py)
+
+
+### Day 15: March 9, 2024, Sunday
+
+**Today's Progress:** 
+
+1. Mastered the art of while loops, exploring the world of iterative control structures.
+2. Gained insights into the concept of infinite loops and the importance of the increment or decrement operator.
+3. Successfully applied the learned concepts by solving a challenging exercise.
+
+**Thoughts:** While loops bring dynamic control to code, and understanding their intricacies is empowering. Exploring infinite loops emphasizes the importance of careful coding. Applying these concepts in exercises solidifies the learning experience. The coding journey continues with enthusiasm! 
+
+**Link(s) to work:**
+1. [Animal Sound Generator](https://replit.com/@souvik2802/day15100-days#main.py)
