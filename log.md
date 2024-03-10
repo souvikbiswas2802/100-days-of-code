@@ -185,7 +185,7 @@
 1. [2 Player Rock, Paper and Scissor Game](https://replit.com/@souvik2802/day-14100-days#main.py)
 
 
-### Day 15: March 9, 2024, Sunday
+### Day 15: March 10, 2024, Sunday
 
 **Today's Progress:** 
 
