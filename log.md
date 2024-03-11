@@ -197,3 +197,17 @@
 
 **Link(s) to work:**
 1. [Animal Sound Generator](https://replit.com/@souvik2802/day15100-days#main.py)
+
+
+### Day 16: March 11, 2024, Monday
+
+**Today's Progress:** 
+
+1. Explored boolean variables - navigating the realm of True and False.
+2. Mastered the art of the break statement, adding efficiency to code control flow.
+3. Applied these newfound skills in solving an engaging exercise.
+
+**Thoughts:** Boolean logic enhances decision-making, and the break statement streamlines control flow. Navigating through these concepts amplifies my coding capabilities. Completing exercises is a clear indication of continuous growth. Excitement remains high for the ongoing coding journey!
+
+**Link(s) to work:**
+1. [Fill In The Blank Lyrics](https://replit.com/@souvik2802/Day-16100-Days#main.py)
