@@ -211,3 +211,17 @@
 
 **Link(s) to work:**
 1. [Fill In The Blank Lyrics](https://replit.com/@souvik2802/Day-16100-Days#main.py)
+
+
+### Day 17: March 12, 2024, Tuesday
+
+**Today's Progress:** 
+
+1. Reinforced understanding of the break statement.
+2. Explored the exit() function for program termination.
+3. Implemented these concepts to enhance the 2 Player Rock, Paper, and Scissor Game.
+
+**Thoughts:** Control mechanisms like break and exit() add versatility to code. Applying these to an existing game showcases practical usage. Excitement grows as complexity increases in coding projects! 
+
+**Link(s) to work:**
+1. [Updated 2 Player Rock, Paper and Scissor Game](https://replit.com/@souvik2802/day17100-days#main.py)
