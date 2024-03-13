@@ -225,3 +225,15 @@
 
 **Link(s) to work:**
 1. [Updated 2 Player Rock, Paper and Scissor Game](https://replit.com/@souvik2802/day17100-days#main.py)
+
+
+### Day 18: March 13, 2024, Thursday
+
+**Today's Progress:** 
+
+1. Built a fun and exciting number guessing game! 
+
+**Thoughts:** Building the number guessing game was both challenging and rewarding! 💡 It was a great opportunity to practice my Python skills and dive deeper into the logic of game development. Plus, seeing the game come to life was incredibly satisfying!
+
+**Link(s) to work:**
+1. [Guess the Number](https://replit.com/@souvik2802/day18100-days#main.py)
