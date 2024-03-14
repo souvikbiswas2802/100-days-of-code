@@ -233,7 +233,20 @@
 
 1. Built a fun and exciting number guessing game! 
 
-**Thoughts:** Building the number guessing game was both challenging and rewarding! 💡 It was a great opportunity to practice my Python skills and dive deeper into the logic of game development. Plus, seeing the game come to life was incredibly satisfying!
+**Thoughts:** Building the number guessing game was both challenging and rewarding! It was a great opportunity to practice my Python skills and dive deeper into the logic of game development. Plus, seeing the game come to life was incredibly satisfying!
 
 **Link(s) to work:**
 1. [Guess the Number](https://replit.com/@souvik2802/day18100-days#main.py)
+
+
+### Day 19: March 14, 2024, Wednesday
+
+**Today's Progress:** 
+
+1. Explored the versatility of the for loop and gained insights into the range() function.
+2. Applied these newfound skills in solving an engaging exercise.
+
+**Thoughts:** Mastering the for loop and range() function opens up a myriad of possibilities for efficient iteration and control. Completing challenging exercises solidifies understanding and boosts confidence. Excited to apply these newfound skills in future projects.
+
+**Link(s) to work:**
+1. [Loan Calculator](https://replit.com/@souvik2802/day-19100-days#main.py)
