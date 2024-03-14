@@ -227,7 +227,7 @@
 1. [Updated 2 Player Rock, Paper and Scissor Game](https://replit.com/@souvik2802/day17100-days#main.py)
 
 
-### Day 18: March 13, 2024, Thursday
+### Day 18: March 13, 2024, Wednesday
 
 **Today's Progress:** 
 
@@ -239,7 +239,7 @@
 1. [Guess the Number](https://replit.com/@souvik2802/day18100-days#main.py)
 
 
-### Day 19: March 14, 2024, Wednesday
+### Day 19: March 14, 2024, Thursday
 
 **Today's Progress:** 
 
