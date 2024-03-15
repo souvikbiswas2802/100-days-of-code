@@ -250,3 +250,17 @@
 
 **Link(s) to work:**
 1. [Loan Calculator](https://replit.com/@souvik2802/day-19100-days#main.py)
+
+
+### Day 20: March 15, 2024, Friday
+
+**Today's Progress:** 
+
+1. Enhanced understanding of the range() function within for loops.
+2. Mastered incrementing or decrementing custom values in for loops using range().
+3. Successfully solved a challenging exercise, showcasing newfound skills.
+
+**Thoughts:** Delving deeper into the range() function and custom value increments in for loops adds versatility to coding. Conquering exercises demonstrates progress and reinforces learning. Excited for the continued growth in coding proficiency!
+
+**Link(s) to work:**
+1. [List Generator](https://replit.com/@souvik2802/day20100-days#main.py)
