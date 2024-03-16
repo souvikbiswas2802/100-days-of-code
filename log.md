@@ -264,3 +264,15 @@
 
 **Link(s) to work:**
 1. [List Generator](https://replit.com/@souvik2802/day20100-days#main.py)
+
+
+### Day 21: March 16, 2024, Saturday
+
+**Today's Progress:** 
+
+1. Developed a fact math game using for loops, merging coding skills with interactive learning.
+
+**Thoughts:** Creating the math game was both fun and educational, offering an engaging way to practice math skills. Looking forward to exploring more interactive project ideas!
+
+**Link(s) to work:**
+1. [Math Facts Game](https://replit.com/@souvik2802/day-21100-days#main.py)
