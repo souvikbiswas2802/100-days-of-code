@@ -276,3 +276,17 @@
 
 **Link(s) to work:**
 1. [Math Facts Game](https://replit.com/@souvik2802/day-21100-days#main.py)
+
+
+### Day 22: March 17, 2024, Sunday
+
+**Today's Progress:** 
+
+1. Explored Python libraries, tapping into external functionality.
+2. Learned about the random library and its randint function for generating random numbers.
+3. Enhanced the Guess the Number game from Day 18 by implementing the random library.
+
+**Thoughts:** Python libraries offer a wealth of resources to augment coding projects. Integrating the random library injects unpredictability and excitement into the game, showcasing the power of external modules. Eager to continue harnessing libraries for enhanced functionality!
+
+**Link(s) to work:**
+1. [Guess the Random Number](https://replit.com/@souvik2802/day22100-days)
