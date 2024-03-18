@@ -290,3 +290,16 @@
 
 **Link(s) to work:**
 1. [Guess the Random Number](https://replit.com/@souvik2802/day22100-days)
+
+
+### Day 23: March 18, 2024, Monday
+
+**Today's Progress:** 
+
+1. Explored subroutines and the use of the def keyword in Python subroutines.
+2. Successfully solved an exercise, applying the concepts learned.
+
+**Thoughts:** Understanding subroutines and defining it with def promotes code reusability and enhances coding efficiency. Each solved exercise reinforces comprehension and boosts confidence in coding skills. Excited to continue exploring the world of Python! 
+
+**Link(s) to work:**
+1. [Replit Login System](https://replit.com/@souvik2802/day23100-days#main.py)
