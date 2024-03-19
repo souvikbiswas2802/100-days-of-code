@@ -303,3 +303,16 @@
 
 **Link(s) to work:**
 1. [Replit Login System](https://replit.com/@souvik2802/day23100-days#main.py)
+
+
+### Day 24: March 19, 2024, Tuesday
+
+**Today's Progress:** 
+
+1. Explored parameters or arguments in subroutines, enhancing the flexibility of functions.
+2. Successfully solved an exercise, applying the newly acquired knowledge.
+
+**Thoughts:** Understanding parameters in subroutines allows for more adaptable and reusable code, empowering efficient programming. Each exercise conquered represents a step forward in the coding journey. Excited to continue leveraging functions for enhanced code organization and efficiency!
+
+**Link(s) to work:**
+1. [Infinity Dice](https://replit.com/@souvik2802/day24100-days-of-code#main.py)
