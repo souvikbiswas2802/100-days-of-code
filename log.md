@@ -316,3 +316,16 @@
 
 **Link(s) to work:**
 1. [Infinity Dice](https://replit.com/@souvik2802/day24100-days-of-code#main.py)
+
+
+### Day 25: March 20, 2024, Wednesday
+
+**Today's Progress:** 
+
+1. Explored the concept of return in subroutines, understanding its role in function output.
+2. Successfully solved an exercise, consolidating understanding of subroutines.
+   
+**Thoughts:** The return statement in subroutines enhances function output clarity, contributing to code organization and readability. Each exercise conquered represents progress and reinforces coding proficiency. Excited to continue the journey of learning and growth!
+
+**Link(s) to work:**
+1. [Character Stat Generator](https://replit.com/@souvik2802/day-25100-days-of-code#main.py)
