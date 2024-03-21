@@ -1,4 +1,4 @@
-print("⚔️CHARECTER STAT GENERATOR⚔️")
+print("⚔️CHARACTER STAT GENERATOR⚔️")
 print()
 import random
 def rollDice(sides):
@@ -16,6 +16,6 @@ while True:
   health = str(roll_6_and_8())
   print("\033[92m","His health is", health,"hp","\033[0m")
   print()
-  confirm = input("Do you want to create another charecter?(Y/N):  ")
+  confirm = input("Do you want to create another character?(Y/N):  ")
   if confirm == "n" or confirm == "N":
     break
