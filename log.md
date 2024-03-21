@@ -329,3 +329,18 @@
 
 **Link(s) to work:**
 1. [Character Stat Generator](https://replit.com/@souvik2802/day-25100-days-of-code#main.py)
+
+
+### Day 26: March 21, 2024, Thurssday
+
+**Today's Progress:** 
+
+1️. Explored the os and time libraries in Python, unlocking new functionality for system interaction and time management.
+2️. Learned about the time.sleep() and os.system("clear") functions, enhancing control over program execution and screen clearing.
+3️. Successfully solved an exercise, applying the newfound knowledge.
+   
+**Thoughts:** 
+Discovering the capabilities of the os and time libraries expands the scope of Python programming, offering tools for system-level interactions and time-sensitive operations. The time.sleep() and os.system("clear") functions add control and clarity to program execution. Each exercise tackled represents a step forward in coding proficiency and problem-solving skills. Excited to continue exploring Python's vast ecosystem!
+
+**Link(s) to work:**
+1. [🎶Music Player](https://replit.com/@souvik2802/day26100-days-of-code#main.py)
