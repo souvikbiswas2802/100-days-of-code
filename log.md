@@ -356,3 +356,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [⚔️Character Builder⚔️](https://replit.com/@souvik2802/day-27100-days-of-code#main.py)
+
+
+### Day 28: March 23, 2024, Saturday
+
+**Today's Progress:** 
+
+1. Transformed the previous day's character builder into a dynamic battle simulator, adding new features and functionality.
+   
+**Thoughts:** Updating the character builder into a battle simulator showcases the evolution of coding skills and project development. Each enhancement adds depth and complexity to the program, offering a richer user experience. Excited to see the project grow and evolve further!
+
+**Link(s) to work:**
+1. [⚔️Battle Simulator⚔️](https://replit.com/@souvik2802/day-28100-days-of-code#main.py)
