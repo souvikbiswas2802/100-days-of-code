@@ -368,3 +368,17 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [⚔️Battle Simulator⚔️](https://replit.com/@souvik2802/day-28100-days-of-code#main.py)
+
+
+### Day 29: March 24, 2024, Sunday
+
+**Today's Progress:** 
+
+1. Explored various print arguments like end and sep, gaining control over output formatting.
+2. Learned about escape characters \n, \t, and \v for manipulating text layout.
+3. Mastered techniques to hide and show the cursor, enhancing user experience.
+   
+**Thoughts:** Understanding advanced print arguments and escape characters offers greater flexibility in formatting output and designing user interfaces. Manipulating the cursor visibility adds polish to interactive programs. Each new concept mastered opens doors to creative possibilities in coding. Excited to apply these techniques in future projects!
+
+**Link(s) to work:**
+1. [Super Subroutine](https://replit.com/@souvik2802/day29100-days#main.py)
