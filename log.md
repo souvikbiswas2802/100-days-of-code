@@ -382,3 +382,16 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Super Subroutine](https://replit.com/@souvik2802/day29100-days#main.py)
+
+
+### Day 30: March 25, 2024, Monday
+
+**Today's Progress:** 
+
+1. Explored the power of f-strings in Python, mastering string formatting and alignment using {} and alignment specifiers <, >, and ^.
+2. Successfully solved an exercise, applying the newly acquired knowledge to manipulate string output.
+   
+**Thoughts:** Learning about f-strings unlocks a versatile tool for string interpolation and formatting, enhancing code readability and efficiency. Understanding alignment specifiers adds precision to text layout, improving visual presentation. Each exercise solved represents a milestone in the coding journey, reinforcing skills and boosting confidence. Excited to continue honing Python proficiency! 
+
+**Link(s) to work:**
+1. [30 Days Journey Experience](https://replit.com/@souvik2802/day30100-days#main.py)
