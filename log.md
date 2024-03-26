@@ -395,3 +395,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [30 Days Journey Experience](https://replit.com/@souvik2802/day30100-days#main.py)
+
+
+### Day 31: March 26, 2024, Tuesday
+
+**Today's Progress:** 
+
+1. Mastered string formatting and alignment using f-strings and alignment specifiers, creating two interfaces in Python.
+   
+**Thoughts:** Successfully solving the exercise and creating two interfaces demonstrates proficiency in string manipulation and formatting. Learning about f-strings and alignment specifiers provides greater control over text layout, enhancing the visual presentation of interfaces. Each project completed signifies progress and growth in coding skills.
+
+**Link(s) to work:**
+1. [Interfaces](https://replit.com/@souvik2802/Day31100-days#main.py)
