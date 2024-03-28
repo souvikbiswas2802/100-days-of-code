@@ -420,3 +420,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Greetings Generator](https://replit.com/@souvik2802/day-32100-days#main.py)
+
+
+### Day 33: March 28, 2024, Thurssday
+
+**Today's Progress:** 
+1. Explored list.append(item) and list.remove(item) methods, enhancing my understanding of list manipulation in Python.
+2. Successfully solved an exercise, applying these techniques to manage and manipulate list data effectively.
+   
+**Thoughts:** Learning about list methods like append() and remove() adds valuable tools to my Python programming arsenal. These methods empower efficient data management and manipulation, facilitating smoother coding experiences. Each exercise completed represents a milestone in my journey toward Python mastery. Excited to continue building and refining my coding skills!
+
+**Link(s) to work:**
+1. [To Do List Manager](https://replit.com/@souvik2802/day-33100-days#main.py)
