@@ -13,7 +13,7 @@ def printList():
 def addItem():
   item = input("Enter Item> ")
   toDoList.append(item)
-  print("Item added Succefully")
+  print("Item added Successfully")
 def removeItem():
   printList()
   print()
@@ -22,7 +22,7 @@ def removeItem():
     print("Invalid index")
   else:
     toDoList.remove(toDoList[index-1])
-    print("Item removed Succefully")
+    print("Item removed Successfully")
 
 while True:
   title = "\033[34mTo Do List Manager\033[0m"
