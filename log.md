@@ -444,3 +444,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [SPAMMER Inc.](https://replit.com/@souvik2802/day-34100-days#main.py)
+
+
+### Day 35: March 30, 2024, Saturday
+
+**Today's Progress:** 
+1. Applied the concept of pretty printing to enhance the readability and presentation of task lists in the Day 33 To-Do List Manager project.
+   
+**Thoughts:** Integrating pretty printing into the To-Do List Manager project not only improves the visual appeal of the application but also enhances user experience by making task lists more organized and easier to read. The ability to make modifications and enhancements to existing projects demonstrates continuous learning and growth as a developer. Excited to see the positive impact of these improvements on project usability!
+
+**Link(s) to work:**
+1. [Updated To Do List Manager](https://replit.com/@souvik2802/day35100-days#main.py)
