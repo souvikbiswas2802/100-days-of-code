@@ -455,3 +455,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Updated To Do List Manager](https://replit.com/@souvik2802/day35100-days#main.py)
+
+
+### Day 36: March 31, 2024, Sunday
+
+**Today's Progress:** 
+1. Explored the intricacies of string manipulation, gaining insights into effectively manipulating and formatting text data.
+2. Successfully solved an exercise, applying string manipulation techniques to tackle coding challenges with confidence.
+   
+**Thoughts:** Delving into string manipulation opens up a world of possibilities for text processing and formatting in Python. Understanding how to manipulate strings efficiently is essential for developing robust and user-friendly applications. Each exercise completed reinforces my understanding and mastery of string manipulation techniques, paving the way for more sophisticated projects in the future. Excited to continue honing my skills in text processing! 
+
+**Link(s) to work:**
+1. [Name List Generator](https://replit.com/@souvik2802/day-36100-days#main.py)
