@@ -467,3 +467,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Name List Generator](https://replit.com/@souvik2802/day-36100-days#main.py)
+
+
+### Day 37: April 1, 2024, Monday
+
+**Today's Progress:** 
+1. Explored the concept of string slicing, mastering techniques for extracting substrings from larger strings with precision.
+2. Successfully solved an exercise, applying string slicing techniques to manipulate and extract specific portions of text data.
+   
+**Thoughts:** Understanding string slicing provides valuable tools for working with text data in Python. The ability to extract substrings based on specific criteria enhances data processing capabilities and enables more sophisticated text manipulation tasks. Each exercise completed represents another step forward in my journey toward Python proficiency. Excited to continue expanding my knowledge and skills in text processing!
+
+**Link(s) to work:**
+1. [Star Wars Name Generator](https://replit.com/@souvik2802/Day37100Days#main.py)
