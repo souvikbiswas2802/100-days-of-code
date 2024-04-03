@@ -491,3 +491,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Rainbow-ize Text Converter](https://replit.com/@souvik2802/Day38100Days#main.py)
+
+
+### Day 39: April 3, 2024, Wednesday
+
+**Today's Progress:** 
+1. Developed a Hangman game as part of an exercise, applying Python programming concepts to create an interactive and engaging game experience.
+   
+**Thoughts:** Creating the Hangman game was a rewarding challenge that allowed me to apply various Python programming concepts in a practical context. Building interactive games not only reinforces programming skills but also fosters creativity and problem-solving abilities. Excited to continue exploring game development and refining my coding skills! 
+
+**Link(s) to work:**
+1. [Hangman Game](https://replit.com/@souvik2802/Day39100Days#main.py)
