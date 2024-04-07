@@ -538,3 +538,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [MokéBeast - The Non-Copyright Generic Beast Battle Game](https://replit.com/@souvik2802/Day42100Days#main.py)
+
+
+### Day 43: April 7, 2024, Sunday
+
+**Today's Progress:** 
+1. Explored the concept of 2D lists in Python, understanding how to represent and manipulate tabular data structures effectively.
+2. Successfully solved an exercise that utilized 2D lists, applying them to solve coding challenges related to tabular data management.
+   
+**Thoughts:** Delving into 2D lists opens up new possibilities for organizing and managing structured data in Python. Understanding how to work with tabular data structures enhances my ability to handle complex data sets and perform various data manipulation tasks efficiently. Today's exercise provided valuable hands-on experience in applying 2D lists to real-world coding scenarios, further advancing my Python programming skills. Excited to continue exploring advanced data structures and leveraging them in future projects!
+
+**Link(s) to work:**
+1. [Bingo Card Generator](https://replit.com/@souvik2802/Day43100Days#main.py)
