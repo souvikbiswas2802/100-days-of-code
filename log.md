@@ -550,3 +550,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Bingo Card Generator](https://replit.com/@souvik2802/Day43100Days#main.py)
+
+### Day 44: April 8, 2024, Monday
+
+**Today's Progress:** 
+1. Explored the concept of 2D dynamic lists in Python, understanding how to create and manipulate dynamically-sized tabular data structures.
+2. Successfully solved an exercise that utilized 2D dynamic lists, applying them to solve coding challenges related to flexible tabular data management.
+   
+**Thoughts:** Understanding 2D dynamic lists enables me to work with tabular data structures that can dynamically adjust in size based on runtime requirements. This flexibility is essential for handling data sets of varying sizes and structures effectively. Today's exercise provided valuable practice in applying 2D dynamic lists to real-world coding scenarios, enhancing my proficiency in data management and manipulation. Excited to continue exploring advanced data structures and leveraging them in future projects! 
+
+**Link(s) to work:**
+1. [Bingo Card Generator - II](https://replit.com/@souvik2802/Day44100Days#main.py)
