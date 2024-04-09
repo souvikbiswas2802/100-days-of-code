@@ -561,3 +561,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Bingo Card Generator - II](https://replit.com/@souvik2802/Day44100Days#main.py)
+
+
+### Day 45: April 9, 2024, Tuesday
+
+**Today's Progress:** 
+1. Successfully solved an exercise, honing problem-solving skills and consolidating knowledge in Python programming.
+   
+**Thoughts:** Every exercise solved is a step forward in my coding journey, reinforcing concepts and techniques while expanding my problem-solving abilities. Each challenge overcome builds confidence and prepares me for more complex tasks ahead. Excited to continue pushing my boundaries and learning new skills! 
+
+**Link(s) to work:**
+1. [Todo List Manager](https://replit.com/@souvik2802/Day45100Days#main.py)
