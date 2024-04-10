@@ -572,3 +572,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Todo List Manager](https://replit.com/@souvik2802/Day45100Days#main.py)
+
+
+### Day 46: April 10, 2024, Wednesday
+
+**Today's Progress:** 
+1. Explored the concept of 2D dictionaries, understanding how to organize and access data in a structured manner.
+2. Upgraded the Mokedex project from Day 42 to store details of multiple monsters, enhancing its functionality and versatility.
+   
+**Thoughts:** Diving into 2D dictionaries provides a powerful tool for organizing and managing complex data structures in Python. The upgrade to the Mokedex project demonstrates the scalability and adaptability of dictionaries, allowing for the storage and retrieval of extensive information. Each enhancement adds depth to my understanding of data structures and expands the capabilities of my projects. Excited to continue leveraging dictionaries to create more dynamic and functional applications! 
+
+**Link(s) to work:**
+1. [MokéBeast - The Non-Copyright Generic Beast Battle Game](https://replit.com/@souvik2802/Day46100Days#main.py)
