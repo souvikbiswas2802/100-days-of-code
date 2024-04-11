@@ -584,3 +584,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [MokéBeast - The Non-Copyright Generic Beast Battle Game](https://replit.com/@souvik2802/Day46100Days#main.py)
+
+
+### Day 47: April 11, 2024, Thursday
+
+**Today's Progress:** 
+1. Successfully solved an exercise, honing problem-solving skills and reinforcing Python programming concepts.
+   
+**Thoughts:** Each exercise completed brings me closer to mastery, solidifying my understanding of Python syntax and problem-solving strategies. The process of tackling challenges, debugging code, and refining solutions is integral to my growth as a programmer. With each solved exercise, I gain confidence and become better equipped to tackle more complex projects in the future. Excited to continue the journey of continuous learning and improvement! 
+
+**Link(s) to work:**
+1. [Top Trumps](https://replit.com/@souvik2802/Day47100Days#main.py)
