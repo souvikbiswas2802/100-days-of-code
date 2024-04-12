@@ -595,3 +595,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Top Trumps](https://replit.com/@souvik2802/Day47100Days#main.py)
+
+
+### Day 48: April 12, 2024, Friday
+
+**Today's Progress:** 
+1. Explored file manipulation in Python, creating and saving data to a file using methods like 'open', 'write', and 'close'.
+2. Successfully solved an exercise, applying file handling techniques and consolidating Python skills.
+   
+**Thoughts:** Delving into file manipulation opens up new possibilities for storing and managing data in Python applications. Understanding how to create, write to, and close files provides valuable insight into data persistence. Additionally, solving exercises reinforces my understanding of file handling concepts and strengthens my problem-solving skills. Excited to leverage file operations in future projects and explore the realm of data storage further!
+
+**Link(s) to work:**
+1. [HIGH SCORE TABLE](https://replit.com/@souvik2802/Day48100Days#main.py)
