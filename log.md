@@ -607,3 +607,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [HIGH SCORE TABLE](https://replit.com/@souvik2802/Day48100Days#main.py)
+
+
+### Day 49: April 13, 2024, Saturday
+
+**Today's Progress:** 
+1. Learned to read a file in Python using methods like 'open', 'read', and 'readline' gaining proficiency in file input operations.
+2. Successfully solved an exercise, applying file handling techniques and consolidating Python skills.
+   
+**Thoughts:** Mastering file reading capabilities in Python enhances my ability to interact with external data sources and perform data analysis. Understanding how to open, read, and process file contents provides valuable insight into data manipulation and processing. Additionally, solving exercises reinforces my understanding of file handling concepts and strengthens my problem-solving skills. Excited to explore more advanced file operations and tackle diverse projects in the future! 
+
+**Link(s) to work:**
+1. [Current Leader](https://replit.com/@souvik2802/Day49100Days#main.py)
