@@ -619,3 +619,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Current Leader](https://replit.com/@souvik2802/Day49100Days#main.py)
+
+
+### Day 50: April 14, 2024, Sunday
+
+**Today's Progress:** 
+1. Successfully solved an exercise, applying file handling techniques and consolidating Python skills.
+   
+**Thoughts:** Another exercise conquered, another step forward in my coding journey. As I continue to work with file handling in Python, I'm gaining confidence in my ability to manage and manipulate data effectively. Each challenge overcome reinforces my understanding of Python concepts and strengthens my problem-solving skills. Excited to see how I can apply these newfound skills in future projects!
+
+**Link(s) to work:**
+1. [Idea Storage](https://replit.com/@souvik2802/Day50100Days#main.py)
