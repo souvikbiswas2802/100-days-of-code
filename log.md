@@ -642,3 +642,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [ToDo List Manager](https://replit.com/@souvik2802/Day51100Days#main.py)
+
+
+### Day 52: April 16, 2024, Tuesday
+
+**Today's Progress:** 
+1. Explored the concepts of try, except, and traceback in Python, mastering error handling techniques.
+2. Successfully solved an exercise, applying try-except blocks to handle exceptions effectively.
+   
+**Thoughts:** Diving into error handling with try and except blocks opens up a world of possibilities in Python programming. By anticipating and gracefully handling errors, I'm enhancing the robustness and reliability of my code. Each exercise completed using these concepts reinforces my understanding and prepares me to tackle real-world challenges with confidence. Excited to continue learning and refining my coding skills! 
+
+**Link(s) to work:**
+1. [Pizza Shop](https://replit.com/@souvik2802/Day52100Days#main.py)
