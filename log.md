@@ -665,3 +665,16 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [RPG Inventory](https://replit.com/@souvik2802/Day53100Days#main.py)
+
+
+### Day 54: April 18, 2024, Thursday
+
+**Today's Progress:** 
+1. Explored the csv library and csv files in Python, gaining insights into data handling and manipulation.
+2. Learned about .reader() and .DictReader() methods for reading CSV files, understanding their differences and applications.
+3. Successfully solved an exercise, applying the knowledge of csv files to calculate total costs from a dataset.
+   
+**Thoughts:** Diving into the world of CSV files opens up new possibilities for data processing and analysis. The csv library provides powerful tools for working with structured data stored in CSV format. Today's exercise was a practical application of these concepts, demonstrating how Python can streamline tasks involving large datasets. Excited to continue exploring the potential of CSV files in future projects! 
+
+**Link(s) to work:**
+1. [CSV Total Cost](https://replit.com/@souvik2802/Day54100Days#main.py)
