@@ -678,3 +678,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [CSV Total Cost](https://replit.com/@souvik2802/Day54100Days#main.py)
+
+
+### Day 55: April 19, 2024, Friday
+
+**Today's Progress:** 
+1. Expanded my knowledge of the os library in Python, delving into functions like os.mkdir(), os.rename(), and os.listdir(), which facilitate directory and file management.
+2. Successfully solved an exercise, applying the newly acquired os library functions to enhance file and directory operations.
+   
+**Thoughts:** Delving deeper into the os library has broadened my understanding of file system manipulation in Python. The os.mkdir() function enables the creation of new directories, while os.rename() facilitates file renaming. Meanwhile, os.listdir() provides a convenient way to list directory contents. Today's exercise allowed me to apply these functions effectively, reinforcing my ability to manage files and directories programmatically. Excited to continue exploring the capabilities of Python's standard libraries!
+
+**Link(s) to work:**
+1. [TODO List Manager](https://replit.com/@souvik2802/Day55100Days#main.py)
