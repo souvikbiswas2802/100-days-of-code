@@ -690,3 +690,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [TODO List Manager](https://replit.com/@souvik2802/Day55100Days#main.py)
+
+
+### Day 56: April 20, 2024, Saturday
+
+**Today's Progress:** 
+1. Mastered file and directory operations using Python's os library, enhancing my skills in managing file systems programmatically.
+   
+**Thoughts:** Continuing to explore the capabilities of Python's os library, I applied my knowledge to solve an exercise effectively. This hands-on experience has solidified my understanding of file and directory manipulation, empowering me to tackle more complex tasks in the future.
+
+**Link(s) to work:**
+1. [Music Categorize](https://replit.com/@souvik2802/Day56100Days#main.py)
