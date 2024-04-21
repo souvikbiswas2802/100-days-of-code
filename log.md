@@ -701,3 +701,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Music Categorize](https://replit.com/@souvik2802/Day56100Days#main.py)
+
+
+### Day 57: April 21, 2024, Sunday
+
+**Today's Progress:** 
+1. Explored the concept of recursion, diving into its intricacies and understanding its application in solving problems.
+   
+**Thoughts:** Delving into recursion opened up a new realm of problem-solving possibilities. Although initially challenging, grasping the recursive approach proved rewarding. The exercise I solved served as a practical demonstration of recursion's power and versatility.
+
+**Link(s) to work:**
+1. [Factorial Calculator](https://replit.com/@souvik2802/Day57100Days#main.py)
