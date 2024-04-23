@@ -714,12 +714,12 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 1. [Factorial Calculator](https://replit.com/@souvik2802/Day57100Days#main.py)
 
 
-### Day 58: April 22, 2024, Monday
+### Day 59: April 23, 2024, Tuesday
 
 **Today's Progress:** 
-1. Explored the debugger tool and its utility in identifying and fixing errors in code, enhancing my debugging skills.
+1. Learned about palindrome strings and implemented a palindrome checker algorithm to verify them.
    
-**Thoughts:** Learning to effectively use the debugger proved invaluable in troubleshooting and rectifying errors within code. Debugging is an essential skill for any programmer, and mastering it brings confidence in tackling complex projects.
+**Thoughts:** Exploring palindrome strings was fascinating, and creating a palindrome checker algorithm provided valuable insights into string manipulation and algorithmic thinking.
 
 **Link(s) to work:**
-1. [Debugged Code](https://replit.com/@souvik2802/Day58100Days#main.py)
+1. [Palindrome Checker](https://replit.com/@souvik2802/Day59100Days#main.py)
