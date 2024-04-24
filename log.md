@@ -734,3 +734,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Palindrome Checker](https://replit.com/@souvik2802/Day59100Days#main.py)
+
+
+### Day 60: April 24, 2024, Wednesday
+
+**Today's Progress:** 
+1. Explored the datetime library in Python, learning how to work with dates and times effectively. Applied this knowledge to create a countdown timer for upcoming events.
+   
+**Thoughts:** Understanding the datetime library opens up a wide range of possibilities for managing time-related tasks in Python projects. Building a countdown timer was a practical application of this knowledge, and I look forward to utilizing datetime in future projects.
+
+**Link(s) to work:**
+1. [Event Count Down Timer](https://replit.com/@souvik2802/Day60100Days#main.py)
