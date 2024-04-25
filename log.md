@@ -745,3 +745,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Event Count Down Timer](https://replit.com/@souvik2802/Day60100Days#main.py)
+
+
+### Day 61: April 25, 2024, Thuresday
+
+**Today's Progress:** 
+1. Explored the Replit database functionality, learning to add, view, and delete items dynamically. Applied this knowledge to create a simple Twitter-like application where users can post and delete tweets.
+   
+**Thoughts:** Working with databases adds a new dimension to my coding journey. The ability to store and manipulate data dynamically opens up endless possibilities for building interactive applications. Excited to dive deeper into database management!
+
+**Link(s) to work:**
+1. [One Person Twitter](https://replit.com/@souvik2802/Day61100Days#main.py)
