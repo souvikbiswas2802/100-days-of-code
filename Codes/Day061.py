@@ -9,8 +9,14 @@ def add():
 
 def view():
   keys = db.keys()
+  i = 1
   for key in keys:
     print(f"{key}: {db[key]}")
+    if i % 10 == 0:
+      more = input("Do you want to see more tweets? (y/n): ")
+      if more == "n":
+        break
+      os.system("clear")
 
 def delete():
   keys = db.keys()
