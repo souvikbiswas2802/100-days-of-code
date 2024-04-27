@@ -767,3 +767,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Private Diary](https://replit.com/@souvik2802/Day62100Days#main.py)
+
+
+### Day 63: April 27, 2024, Saturday
+
+**Today's Progress:** 
+1. Explored creating custom libraries and importing them with aliases in Python. Developed a personal library with useful subroutines like 'wait(seconds)' and 'textcolor(color, text)' etc for enhanced control and customization in Python projects.
+
+**Thoughts:** Building a custom library was empowering, enabling more efficient code organization and reuse. Excited to leverage these tools for more streamlined development in future projects!
+
+**Link(s) to work:**
+1. [myLibrary.py](https://replit.com/@souvik2802/Day63100Days#myLibrary.py)
+2. [main.py](https://replit.com/@souvik2802/Day63100Days#main.py)
