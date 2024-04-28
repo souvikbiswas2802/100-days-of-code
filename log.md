@@ -779,3 +779,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 **Link(s) to work:**
 1. [myLibrary.py](https://replit.com/@souvik2802/Day63100Days#myLibrary.py)
 2. [main.py](https://replit.com/@souvik2802/Day63100Days#main.py)
+
+
+### Day 64: April 28, 2024, Sunday
+
+**Today's Progress:** 
+1. Dove into the world of Object-Oriented Programming (OOP) and classes, exploring inheritance and its application in Python.
+
+**Thoughts:** Discovering OOP principles like classes and inheritance opens up exciting possibilities for modular, reusable code. Building on this foundation will enhance project scalability and structure.
+
+**Link(s) to work:**
+1. [Jobs using Class](https://replit.com/@souvik2802/Day64100Days#main.py)
