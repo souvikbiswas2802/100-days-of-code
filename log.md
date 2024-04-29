@@ -790,3 +790,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Jobs using Class](https://replit.com/@souvik2802/Day64100Days#main.py)
+
+
+### Day 65: April 29, 2024, Monday
+
+**Today's Progress:** 
+1. Applied Object-Oriented Programming (OOP) concepts to solve an exercise, using classes to create a character creator.
+
+**Thoughts:** Implementing OOP offers a structured approach to modeling real-world scenarios, enhancing code organization and scalability. Excited to leverage classes for more dynamic projects!
+
+**Link(s) to work:**
+1. [Charecter Creator](https://replit.com/@souvik2802/Day65100Days#main.py)
