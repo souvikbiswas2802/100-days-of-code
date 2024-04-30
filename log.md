@@ -801,3 +801,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Charecter Creator](https://replit.com/@souvik2802/Day65100Days#main.py)
+
+
+### Day 66: April 30, 2024, Tuesday
+
+**Today's Progress:** 
+1. Delved into GUI development with tkinter, exploring its functions and role in building graphical interfaces.
+2. Grasped the concept of global variables and lambda functions, applying these skills to create a calculator using tkinter.
+
+**Thoughts:** Tkinter is a powerful tool for building user-friendly interfaces in Python. Understanding global variables and lambda functions enhances code clarity and efficiency. Excited to leverage tkinter for more interactive projects! 
+
+**Link(s) to work:**
+1. [Calculator](https://replit.com/@souvik2802/Day66100Days#main.py)
