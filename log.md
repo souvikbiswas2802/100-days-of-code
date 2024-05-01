@@ -813,3 +813,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Calculator](https://replit.com/@souvik2802/Day66100Days#main.py)
+
+
+### Day 67: May 1, 2024, Wednesday
+
+**Today's Progress:** 
+1. Learned to use images in tkinter and built a tkinter version of "Guess Who?"
+
+**Thoughts:** Integrating images into tkinter is transformative for creating engaging graphical interfaces. Building the "Guess Who?" game was a fun exercise in blending image-based gameplay with tkinter's capabilities.
+
+**Link(s) to work:**
+1. [Guess Who?](https://replit.com/@souvik2802/Day67100Days#main.py)
