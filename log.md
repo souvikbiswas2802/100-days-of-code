@@ -824,3 +824,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Guess Who?](https://replit.com/@souvik2802/Day67100Days#main.py)
+
+
+### Day 68: May 2, 2024, Thurssday
+
+**Today's Progress:** 
+1. Learned to hide and unhide images and labels in tkinter.
+2. Solved an exercise.
+
+**Thoughts:** Excited to apply image manipulation techniques in tkinter for interactive applications.
+
+**Link(s) to work:**
+1. [Guess Who?-II](https://replit.com/@souvik2802/Day68100Days#main.py)
