@@ -826,7 +826,7 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 1. [Guess Who?](https://replit.com/@souvik2802/Day67100Days#main.py)
 
 
-### Day 68: May 2, 2024, Thurssday
+### Day 68: May 2, 2024, Thursday
 
 **Today's Progress:** 
 1. Learned to hide and unhide images and labels in tkinter.
@@ -836,3 +836,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Guess Who?-II](https://replit.com/@souvik2802/Day68100Days#main.py)
+
+
+### Day 69: May 3, 2024, Friday
+
+**Today's Progress:** 
+1. Created a Visual Novel Game.
+
+**Thoughts:** Exploring game development with Python is an exciting journey. Visual novels offer a creative way to engage users.
+
+**Link(s) to work:**
+1. [Visual Novel](https://replit.com/@souvik2802/Day69100Days#main.py)
