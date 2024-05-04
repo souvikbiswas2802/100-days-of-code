@@ -847,3 +847,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Visual Novel](https://replit.com/@souvik2802/Day69100Days#main.py)
+
+
+### Day 70: May 4, 2024, Saturday
+
+**Today's Progress:** 
+1. Explored the world of system environment variables today!
+2. Implemented them to tackle a challenging exercise—feeling accomplished!
+
+**Thoughts:** Learning to create and manage system environment variables was a game-changer for my coding projects. It opens up a whole new realm of possibilities! Excited to see how I can leverage this in future projects. 
+
+**Link(s) to work:**
+1. [Login system](https://replit.com/@souvik2802/Day70100Days#main.py)
