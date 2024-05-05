@@ -859,3 +859,16 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Login system](https://replit.com/@souvik2802/Day70100Days#main.py)
+
+
+### Day 71: May 5, 2024, Sunday
+
+**Today's Progress:** 
+1. Explored hashing techniques and their significance in security.
+2. Including salting methods to enhance password protection.
+3. Completed an exercise applying these concepts.
+
+**Thoughts:** Understanding hashing and salting is crucial for secure data management and authentication processes.
+
+**Link(s) to work:**
+1. [Login system-II](https://replit.com/@souvik2802/Day71100Days#main.py)
