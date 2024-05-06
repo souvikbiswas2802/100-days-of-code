@@ -872,3 +872,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Login system-II](https://replit.com/@souvik2802/Day71100Days#main.py)
+
+
+### Day 72: May 6, 2024, Monday
+
+**Today's Progress:** 
+1. Implemented hashing and salting techniques to enhance security in the secret diary project, improving data protection.
+
+**Thoughts:** Applying hashing and salting to the secret diary adds robust security, ensuring confidentiality and integrity of sensitive data.
+
+**Link(s) to work:**
+1. [Secret Diary-II](https://replit.com/@souvik2802/Day72100Days#main.py)
