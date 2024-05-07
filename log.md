@@ -883,3 +883,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Secret Diary-II](https://replit.com/@souvik2802/Day72100Days#main.py)
+
+
+### Day 73: May 7, 2024, Tuesday
+
+**Today's Progress:** 
+1. Explored various HTML tags and their uses, applying them in a portfolio project to enhance web development skills.
+
+**Thoughts:** Understanding HTML tags is foundational for web development, allowing for the creation of structured and interactive web pages.
+
+**Link(s) to work:**
+1. [My Portfolio](https://replit.com/@souvik2802/Day73100Days#index.html)
