@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #e7dfdf;
+}
+
+h1, h2{
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+}
+
+p{
+  text-align: center;
+  color: brown;
+}
+
+.img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#thnx{
+  text-align: center;
+  color: #ff0000;
+  font-size: 22px;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
