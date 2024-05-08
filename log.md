@@ -894,3 +894,16 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [My Portfolio](https://replit.com/@souvik2802/Day73100Days#index.html)
+
+
+### Day 74: May 8, 2024, Wednesday
+
+**Today's Progress:** 
+1. Explored various CSS properties and styles, applying them to enhance the aesthetics and presentation of a web portfolio project.
+
+**Thoughts:** CSS offers powerful tools for customizing web design, enabling better control over layout, colors, and visual elements.
+
+**Link(s) to work:**
+1. My Portfolio:
+   [index.html](https://replit.com/@souvik2802/Day74100Days#index.html)
+   [style.css](https://replit.com/@souvik2802/Day74100Days#style.css)
