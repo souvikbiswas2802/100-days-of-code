@@ -907,3 +907,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 1. My Portfolio:
    [index.html](https://replit.com/@souvik2802/Day74100Days#index.html)
    [style.css](https://replit.com/@souvik2802/Day74100Days#style.css)
+
+
+### Day 75: May 9, 2024, Thursday
+
+**Today's Progress:** 
+1. Developed a Link Tree website using HTML and CSS, providing a user-friendly collection of links.
+
+**Thoughts:** Creating a Link Tree is an effective way to share multiple links in a visually appealing and organized format.
+
+**Link(s) to work:**
+1. [My Link Tree](https://replit.com/@souvik2802/Day75100Days#index.html) 
