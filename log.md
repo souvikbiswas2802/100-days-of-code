@@ -918,3 +918,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [My Link Tree](https://replit.com/@souvik2802/Day75100Days#index.html) 
+
+
+### Day 76: May 10, 2024, Friday
+
+**Today's Progress:** 
+1. Explored Flask and integrated my previous HTML/CSS projects into a web application using Flask.
+
+**Thoughts:** Flask provides a powerful framework for building web applications in Python, allowing seamless integration of front-end and back-end components.
+
+**Link(s) to work:**
+1. [Web application](https://replit.com/@souvik2802/Day76100Days#main.py) 
