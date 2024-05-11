@@ -929,3 +929,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Web application](https://replit.com/@souvik2802/Day76100Days#main.py) 
+
+
+### Day 77: May 11, 2024, Saturday
+
+**Today's Progress:** 
+1. Integrated file handling and f-string formatting into a Flask web application, creating a multi-page website with dynamic content.
+
+**Thoughts:** Leveraging file handling and string formatting within Flask allows for versatile and dynamic web applications, enabling easy management and presentation of content.
+
+**Link(s) to work:**
+1. [My Blogs](hhttps://replit.com/@souvik2802/Day77100Days#main.py) 
