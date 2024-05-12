@@ -939,4 +939,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 **Thoughts:** Leveraging file handling and string formatting within Flask allows for versatile and dynamic web applications, enabling easy management and presentation of content.
 
 **Link(s) to work:**
-1. [My Blogs](hhttps://replit.com/@souvik2802/Day77100Days#main.py) 
+1. [My Blogs](https://replit.com/@souvik2802/Day77100Days#main.py) 
+
+
+### Day 78: May 12, 2024, Sunday
+
+**Today's Progress:** 
+1. Created a reflection space to capture thoughts and feelings over the past 22 days, utilizing Python to build a personal space for introspection.
+
+**Thoughts:** Building a reflection space is not only a coding exercise but also an opportunity for personal growth and self-reflection. It's a creative use of technology to capture emotions and thoughts.
+
+**Link(s) to work:**
+1. [Reflection Space](https://replit.com/@souvik2802/Day78100Days#main.py) 
