@@ -951,3 +951,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Reflection Space](https://replit.com/@souvik2802/Day78100Days#main.py) 
+
+
+### Day 79: May 13, 2024, Monday
+
+**Today's Progress:** 
+1. Explored HTML forms, gaining understanding of how to create interactive elements for capturing user input and data.
+
+**Thoughts:** Learning about HTML forms opens up possibilities for creating dynamic web applications that can receive and process user data. It's a fundamental concept for building interactive web pages.
+
+**Link(s) to work:**
+1. [Forms](https://replit.com/@souvik2802/Day79100Days#index.html) 
