@@ -962,3 +962,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Forms](https://replit.com/@souvik2802/Day79100Days#index.html) 
+
+
+### Day 80: May 14, 2024, Tuesday
+
+**Today's Progress:** 
+1. Implemented a login system using Flask, enabling the use of HTML forms to capture and process user data.
+
+**Thoughts:** Working with Flask to handle form data is an essential step towards building more interactive web applications. It allows for user authentication and personalized experiences.
+
+**Link(s) to work:**
+1. [Login System](https://replit.com/@souvik2802/Day80100Days#main.py) 
