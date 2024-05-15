@@ -973,3 +973,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Login System](https://replit.com/@souvik2802/Day80100Days#main.py) 
+
+
+### Day 81: May 15, 2024, Wednesday
+
+**Today's Progress:** 
+1. No robots here! 🤖 I made sure my webserver catches any suspicious login on Day 81. Created an "I am not a robot" feature to enhance security.
+
+**Thoughts:** Implementing CAPTCHA-like functionality is crucial for securing web applications against automated attacks and ensuring only legitimate users gain access.
+
+**Link(s) to work:**
+1. [I am not a robot!](https://replit.com/@souvik2802/Day81100Days#main.py) 
