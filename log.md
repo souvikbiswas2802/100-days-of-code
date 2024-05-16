@@ -984,3 +984,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [I am not a robot!](https://replit.com/@souvik2802/Day81100Days#main.py) 
+
+
+### Day 82: May 16, 2024, Thursday
+
+**Today's Progress:** 
+1. Figured how to create URLs that can be bookmarked 🔖 with the 'get' method on Day 82
+
+**Thoughts:** Learning to use the 'get' method for creating bookmarkable URLs is a valuable skill for improving user experience and making web applications more user-friendly.
+
+**Link(s) to work:**
+1. [Language Change using GET method](https://replit.com/@souvik2802/Day82100Days#main.py) 
