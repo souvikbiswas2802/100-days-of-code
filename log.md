@@ -995,3 +995,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Language Change using GET method](https://replit.com/@souvik2802/Day82100Days#main.py) 
+
+
+### Day 83: May 17, 2024, Friday
+
+**Today's Progress:** 
+1. I customized my blog engine(day 77's work) with cool themes using get methods
+
+**Thoughts:** Adding customization options through GET methods has made the blog engine more dynamic and user-friendly, allowing for a personalized experience.
+
+**Link(s) to work:**
+1. [My Blogs](https://replit.com/@souvik2802/Day83100Days-#main.py) 
