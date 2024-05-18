@@ -1006,3 +1006,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [My Blogs](https://replit.com/@souvik2802/Day83100Days-#main.py) 
+
+
+### Day 84: May 18, 2024, Saturday
+
+**Today's Progress:** 
+1. Implemented client-server model using Flask. Created sign-up and log-in pages.
+
+**Thoughts:** Building a client-server model is a crucial step in web development. It was challenging but rewarding to see the sign-up and log-in functionality come to life.
+
+**Link(s) to work:**
+1. [Client Server Model](https://replit.com/@souvik2802/Day84100Days#main.py) 
