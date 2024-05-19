@@ -1017,3 +1017,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Client Server Model](https://replit.com/@souvik2802/Day84100Days#main.py) 
+
+
+### Day 85: May 19, 2024, Sunday
+
+**Today's Progress:** 
+1. Gained an understanding of HTTP, sessions, and cookies.
+2. Implemented session management in the code developed yesterday.
+
+**Thoughts:** Understanding sessions and cookies is key to managing user states in web applications. Implementing these concepts into my project enhanced its functionality and security.
+
+**Link(s) to work:**
+1. [Client Server Model-II](https://replit.com/@souvik2802/Day85100Days#main.py) 
