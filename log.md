@@ -1029,3 +1029,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Client Server Model-II](https://replit.com/@souvik2802/Day85100Days#main.py) 
+
+
+### Day 86: May 20, 2024, Monday
+
+**Today's Progress:** 
+1. Created a blogging web application.
+
+**Thoughts:** Building a blogging platform was a great way to apply what I’ve learned about web development. Excited to see how this evolves!
+
+**Link(s) to work:**
+1. [Blog site](https://replit.com/@souvik2802/Day86100Days#main.py) 
