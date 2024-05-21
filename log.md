@@ -1040,3 +1040,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Blog site](https://replit.com/@souvik2802/Day86100Days#main.py) 
+
+
+### Day 87: May 21, 2024, Tuesday
+
+**Today's Progress:** 
+1. Implemented Replit Authentication to verify users in Day 86's blog engine.
+
+**Thoughts:** Integrating Replit Authentication adds an extra layer of security and user management to the blogging platform. Excited to enhance the user experience further!
+
+**Link(s) to work:**
+1. [Blog Engine](https://replit.com/@souvik2802/Day87100Days#main.py) 
