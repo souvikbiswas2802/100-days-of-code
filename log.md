@@ -1051,3 +1051,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Blog Engine](https://replit.com/@souvik2802/Day87100Days#main.py) 
+
+
+### Day 88: May 22, 2024, Wednesday
+
+**Today's Progress:** 
+1. Today is all about finessing the Replit authenticator so that it works in a more subtle way.
+   
+**Thoughts:** Refining the authentication process ensures a smoother and more secure user experience. Continuous improvement is key!
+
+**Link(s) to work:**
+1. [Blog Engine](https://replit.com/@souvik2802/Day88100Days-#main.py) 
