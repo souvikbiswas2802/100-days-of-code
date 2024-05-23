@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Replit Chatroom</title>
+  <link href="static/style.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+    
+  <h1>Welcome {username}</h1>
+  
+  <form method="post" action="/addComment">
+    <p>What's on your mind: <input type="text" name="comments" required></p>
+    <button type="submit">Send</button>
+  </form>
+
+  <hr>
+  
+  <!-- Comments Section -->
+  <!-- Comments Section -->
+  {% for key, comment in comments.items() %}
+    <img src="{{ comment.profilepic }}" width="30"> {{ comment.username }}
+    <h3>at {{ comment.timestamp }}</h3>
+    <p>Commented: {{ comment.comment }} <button onclick="deleteComment('{{ key }}')">❌</button></p>
+  {% endfor %}
+
+  <script>
+    function deleteComment(key) {
+      fetch(`/deleteComment?key=${key}`, {
+        method: 'GET'
+      }).then(response => {
+        window.location.reload(); // Reload the page after deletion
+      });
+    }
+  </script>
+
+</body>
+
+</html>

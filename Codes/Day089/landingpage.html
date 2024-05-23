@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Replit Chatroom</title>
+  <link href="static/style.css" rel="stylesheet" type="text/css"/>
+  <script src="https://replit.com/public/js/repl-auth-v2.js"></script>
+  <script>
+    function deleteComment(key) {
+      fetch(`/deleteComment?key=${key}`, {
+        method: 'GET'
+      }).then(response => {
+        window.location.reload(); // Reload the page after deletion
+      });
+    }
+  </script>
+</head>
+
+<body>
+    
+  <h1>Welcome to Replit Chatroom</h1>
+  <h3>Login to post your comments!</h3>
+  <button onclick="LoginWithReplit()"> Login </button>
+
+</body>
+
+</html>
