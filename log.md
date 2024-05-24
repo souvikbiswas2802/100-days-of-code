@@ -1073,3 +1073,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Replit Chatroom](https://replit.com/@souvik2802/Day89100Days#main.py) 
+
+
+### Day 90: May 24, 2024, Friday
+
+**Today's Progress:** 
+1. Learned about JSON files and used them to gather information from APIs.
+   
+**Thoughts:** Integrating JSON with APIs opens up so many possibilities for dynamic data handling and real-world applications!
+
+**Link(s) to work:**
+1. [Image Downloader](https://replit.com/@souvik2802/Day-90100Days#main.py) 
