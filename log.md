@@ -1084,3 +1084,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Image Downloader](https://replit.com/@souvik2802/Day-90100Days#main.py) 
+
+
+### Day 91: May 25, 2024, Saturday
+
+**Today's Progress:** 
+1. Created a program which fetches jokes from an API using JSON. We can save the jokes in Replit DB to see them later.
+   
+**Thoughts:** It's really exciting to combine APIs and databases to create a fun and useful application!
+
+**Link(s) to work:**
+1. [Dad Jokes Generator](https://replit.com/@souvik2802/Day-91100Days#main.py) 
