@@ -1095,3 +1095,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Dad Jokes Generator](https://replit.com/@souvik2802/Day-91100Days#main.py) 
+
+
+### Day 92: May 26, 2024, Sunday
+
+**Today's Progress:** 
+1. Created a program that takes a location as input and returns a weather report using an API.
+   
+**Thoughts:** It's amazing how we can use APIs to provide real-time data and create practical applications like a weather app!
+
+**Link(s) to work:**
+1. [Weather App](https://replit.com/@souvik2802/Day92100Days#main.py) 
