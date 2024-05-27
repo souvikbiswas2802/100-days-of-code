@@ -1106,3 +1106,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Weather App](https://replit.com/@souvik2802/Day92100Days#main.py) 
+
+
+### Day 93: May 27, 2024, Monday
+
+**Today's Progress:** 
+1. Created a Flask app that takes a year as input and returns the top 10 songs of that year using the Spotify API.
+   
+**Thoughts:** Integrating APIs into Flask apps opens up so many possibilities for creating dynamic and engaging web applications. Excited to explore more!
+
+**Link(s) to work:**
+1. [Top 10 Songs Generator](https://replit.com/@souvik2802/Day-93100Days#main.py) 
