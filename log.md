@@ -1128,3 +1128,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Top 5 News Generator](https://replit.com/@souvik2802/Day-94100Days#main.py) 
+
+
+### Day 95: May 29, 2024, Wednesday
+
+**Today's Progress:** 
+1. Integrated the News API and Spotify API.
+2. Created a program that fetches news and then searches for a song on Spotify based on that news.
+
+**Thoughts:** Combining multiple APIs opens up endless possibilities for creative and useful applications. This project is a perfect example of how data from different sources can be combined to create something unique and engaging.
+
+**Link(s) to work:**
+1. [News to Song Generator](https://replit.com/@souvik2802/Day95100Days#main.py) 
