@@ -1117,3 +1117,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Top 10 Songs Generator](https://replit.com/@souvik2802/Day-93100Days#main.py) 
+
+
+### Day 94: May 28, 2024, Tuesday
+
+**Today's Progress:** 
+1. Created a program that fetches today's top 5 news stories using an API.
+   
+**Thoughts:** Leveraging APIs for real-time data is both fascinating and practical. Excited to see how this can be expanded further!
+
+**Link(s) to work:**
+1. [Top 5 News Generator](https://replit.com/@souvik2802/Day-94100Days#main.py) 
