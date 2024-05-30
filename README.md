@@ -2,13 +2,15 @@
 
 Welcome to my **100 Days of Python** GitHub repository! This repository is dedicated to my journey of learning and improving my Python programming skills over a span of 100 days. 
 
+### Start Date
+February 25th, 2024.
+
 ## My Commitment
 
 I am committing to coding in Python every day for 100 days. This challenge is not just about consistency but also about growth and learning. I will document my progress, share my learnings, and build various projects to enhance my skills.
 
 ## Contents
 
-* [Rules](rules.md)
 * [Log - Click here to see my progress](log.md)
 * [Resources](resources.md)
 
