@@ -1140,3 +1140,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [News to Song Generator](https://replit.com/@souvik2802/Day95100Days#main.py) 
+
+
+### Day 96: May 30, 2024, Thurssday
+
+**Today's Progress:** 
+1. Learned about web scraping and BeautifulSoup.
+2. Used BeautifulSoup to create a program that takes a keyword as input and provides news articles and their links related to that keyword.
+
+**Thoughts:** Web scraping is a powerful technique to extract information from websites. Combining it with BeautifulSoup makes it easy to parse HTML and gather specific data. This skill is invaluable for automating data collection tasks and integrating web data into applications.
+
+**Link(s) to work:**
+1. [News Search](https://replit.com/@souvik2802/Day-96100Days#main.py) 
