@@ -1142,7 +1142,7 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 1. [News to Song Generator](https://replit.com/@souvik2802/Day95100Days#main.py) 
 
 
-### Day 96: May 30, 2024, Thurssday
+### Day 96: May 30, 2024, Thursday
 
 **Today's Progress:** 
 1. Learned about web scraping and BeautifulSoup.
