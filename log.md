@@ -1152,3 +1152,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [News Search](https://replit.com/@souvik2802/Day-96100Days#main.py) 
+
+
+### Day 97: May 31, 2024, Friday
+
+**Today's Progress:** 
+1. Integrated web scraping with API handling. Created a program that takes Wikipedia links and returns a summary of the article and all references using Google Gemini API and Beautiful Soup.
+
+**Thoughts:** Combining web scraping with API handling opens up numerous possibilities for data retrieval and processing. This program demonstrates the synergy between different data sources and processing methods to extract valuable information efficiently.
+
+**Link(s) to work:**
+1. [Wikipedia Summary Generator](https://replit.com/@souvik2802/Day97100Days#main.py) 
