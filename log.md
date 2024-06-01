@@ -1157,9 +1157,22 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 ### Day 97: May 31, 2024, Friday
 
 **Today's Progress:** 
-1. Integrated web scraping with API handling. Created a program that takes Wikipedia links and returns a summary of the article and all references using Google Gemini API and Beautiful Soup.
+1. Integrated web scraping with API handling.
+2. Created a program that takes Wikipedia links and returns a summary of the article and all references using Google Gemini API and Beautiful Soup.
 
 **Thoughts:** Combining web scraping with API handling opens up numerous possibilities for data retrieval and processing. This program demonstrates the synergy between different data sources and processing methods to extract valuable information efficiently.
 
 **Link(s) to work:**
 1. [Wikipedia Summary Generator](https://replit.com/@souvik2802/Day97100Days#main.py) 
+
+
+### Day 98: June 1, 2024, Saturday
+
+**Today's Progress:** 
+1. Learned to automate tasks using the schedule library.
+2. Created a program that sends a motivational quote via email every 24 hours.
+
+**Thoughts:** Automation can greatly enhance productivity by taking over repetitive tasks. This project shows how scheduling and email integration can provide daily motivation with minimal effort.
+
+**Link(s) to work:**
+1. [Daily Motivational Quote Mail](https://replit.com/@souvik2802/Day-98100Days#main.py) 
