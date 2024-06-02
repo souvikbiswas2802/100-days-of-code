@@ -1176,3 +1176,15 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Daily Motivational Quote Mail](https://replit.com/@souvik2802/Day-98100Days#main.py) 
+
+
+### Day 99: June 2, 2024, Sunday
+
+**Today's Progress:** 
+1. Integrated automation and web scraping.
+2. Created a program that sends the latest Replit community updates via email every 10 hours.
+
+**Thoughts:** Combining web scraping with automation opens up numerous possibilities for staying updated with minimal manual intervention. This project showcases how we can stay informed about community activities effortlessly.
+
+**Link(s) to work:**
+1. [Community Updates Remider](https://replit.com/@souvik2802/Day99100Days#main.py) 
