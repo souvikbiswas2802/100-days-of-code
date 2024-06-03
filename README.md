@@ -5,7 +5,7 @@ Welcome to my **100 Days of Python** GitHub repository! This repository is dedic
 ### Start Date
 February 25th, 2024.
 
-###Completion Date
+### Completion Date
 June 3rd, 2024.
 
 ## My Commitment
