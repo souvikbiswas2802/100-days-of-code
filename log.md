@@ -1188,3 +1188,14 @@ Discovering the capabilities of the os and time libraries expands the scope of P
 
 **Link(s) to work:**
 1. [Community Updates Remider](https://replit.com/@souvik2802/Day99100Days#main.py) 
+
+
+### Day 100: June 3, 2024, Monday
+
+**Today's Progress:** 
+1. Created a product scraper that sends an email notification when a certain product's price falls below a specified range.
+
+**Thoughts:** What a journey! Ending with a practical and useful tool that demonstrates the power of web scraping and automation. This final project encapsulates the skills I've honed over the past 100 days.
+
+**Link(s) to work:**
+1. [Product Price Scraper](https://replit.com/@souvik2802/Day100100Days#main.py) 
